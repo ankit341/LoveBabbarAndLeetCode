@@ -8,16 +8,17 @@ public class PalindromeNumbers {
     }
 
     public static int reverse(int number, int sum) {
+        if (number == 0) {
+            return sum;
+        }
         int quotient = number / 10;
         int remainder = number % 10;
         sum = sum * 10 + remainder;
-        if (quotient > 0) {
-            reverse(quotient, sum);
-        }
-        return sum;
+        int result = reverse(quotient, sum);
+        return result;
     }
 
     public static void main(String[] args) {
-        System.out.println(reverse(789, 0));
+        System.out.println(reverse(123456, 0));
     }
 }

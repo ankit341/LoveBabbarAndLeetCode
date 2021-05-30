@@ -19,6 +19,6 @@ public class PalindromeNumbers {
     }
 
     public static void main(String[] args) {
-        System.out.println(reverse(123456, 0));
+        System.out.println(reverse(1234560000, 0)); // 789
     }
 }

@@ -47,7 +47,7 @@ Now let us dive into the basics and the paradigm of learning.
 List of All the Data Structures -
 
     Linked Lists
-    ProblemSolving.Stacks
+    problemsolving.Stacks
     Queues
     Maps & Hash Tables
     Arrays
@@ -64,7 +64,7 @@ List of All the Data Structures -
 
 List of All the Algorithms you will learn -
     Divide and Conquer
-    ProblemSolving.Sorting Algorithms (Bubble Sort, Counting Sort, Quick Sort, Merge Sort, Radix Sort)
+    problemsolving.Sorting Algorithms (Bubble Sort, Counting Sort, Quick Sort, Merge Sort, Radix Sort)
     Searching Algorithms (Linear Search, Binary Search)
     Sieve of Eratosthenes
     Knuth-Morris-Pratt Algorithm
@@ -77,22 +77,22 @@ List of All the Algorithms you will learn -
     Graph Traversals (Breadth-First Search, Depth-First Search)
     Floyd-Warshall / Roy-Floyd Algorithm
     Dijkstra's Algorithm & Bellman-Ford Algorithm
-    Topological ProblemSolving.Sorting
+    Topological problemsolving.Sorting
 
-Learning to calculate the Time and space complexity.
+learning to calculate the Time and space complexity.
     Learn notations and refer to the abdul baari videos for time complexity analysis.
 
 
 DS Specific information -
 
 1.Arrays
-    Operations performed on ProblemSolving.Array as a whole  - Creation
+    Operations performed on problemsolving.Array as a whole  - Creation
                                                 Deletion
                                                 Traversing
-                                                ProblemSolving.Sorting
+                                                problemsolving.Sorting
                                                 Merging
 
-    Operations performed on ProblemSolving.Array Elements    - Searching
+    Operations performed on problemsolving.Array Elements    - Searching
                                                 Swapping
                                                 Deleting without shifting
                                                 Deleting with shifting
@@ -102,8 +102,8 @@ DS Specific information -
 
     Algorithms which are specific to array
         - Searching - Linear Search, Binary Search
-        - ProblemSolving.Sorting   - Bubble Sort, Insertion sort, Selection sort, Merge Sort, Quick sort, Counting sort, Bucket Sort, Shell Sort, Sleep Sort
-        - ProblemSolving.Sorting with help of other DS - Heap Sort.
+        - problemsolving.Sorting   - Bubble Sort, Insertion sort, Selection sort, Merge Sort, Quick sort, Counting sort, Bucket Sort, Shell Sort, Sleep Sort
+        - problemsolving.Sorting with help of other DS - Heap Sort.
         - Also refer to the sorting algorithms from - https://www.geeksforgeeks.org/sorting-algorithms/
 
     - Learn the time complexity Management along side every algorithms implemented
@@ -123,16 +123,16 @@ DS Specific information -
                                                        Inserting a node front/last
                                                        Inserting before/after a value
                                                        Updating a node value
-                                                       ProblemSolving.Sorting
+                                                       problemsolving.Sorting
                                                        Searching
                                                        Deleting a node with a value
                                                        Deleting a node before/after a given value.
 
     Algorithms specific to linked list
         - Searching - Linear Search, Binary Search "Why binary search gives no value to linked list"
-        - ProblemSolving.Sorting   - Merge sort, Why merge sort is preferred over in linked list instead of quick sort, despite of same complexity.
+        - problemsolving.Sorting   - Merge sort, Why merge sort is preferred over in linked list instead of quick sort, despite of same complexity.
 
 
-    - Learning of the time complexity of each operations and if internally there is reason to support one kind of operation over the other.
+    - learning of the time complexity of each operations and if internally there is reason to support one kind of operation over the other.
 
 

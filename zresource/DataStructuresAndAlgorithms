@@ -113,18 +113,18 @@ DS Specific information -
     Types of Linked List                             - Singly Linked List
                                                        Doubly Linked List
                                                        Circular Linked List
-                                                       ----- Skip Lists -----
+                                                       ----- Skip Lists -----  --TODO
 
     Operations performed on a Linked List as a whole - Creation
                                                        Deletion
                                                        Traversing
-                                                       Merging
+                                                       Merging --TODO
 
     Operations performed on a Linked List elements   - Creating a node
                                                        Inserting a node front/last
                                                        Inserting before/after a value
                                                        Updating a node value
-                                                       Sorting
+                                                       Sorting --TODO
                                                        Searching
                                                        Deleting a node with a value
                                                        Deleting a node before/after a given value.
@@ -135,5 +135,7 @@ DS Specific information -
 
 
     - learning of the time complexity of each operations and if internally there is reason to support one kind of operation over the other.
+
+3.Stack -
 
 
